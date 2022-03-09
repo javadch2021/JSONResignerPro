@@ -36,3 +36,19 @@ dataList.Add(prod);
 Next Step : You should pass the list to this function 
 ```c#
 resigner.Resign(dataList, yourJSONFilePath);
+```
+# Output
+```json
+{
+  {
+      "Name": "Top",
+      "Description": "For wearing in hot days",
+      "Size": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "Price": 0
+  }
+}
+```
